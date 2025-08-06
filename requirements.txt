@@ -1,0 +1,6 @@
+torch
+numpy
+segmentation-models-pytorch
+matplotlib
+tqdm
+scipy
