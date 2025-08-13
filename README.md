@@ -74,16 +74,4 @@ See `requirements.txt` for the list of required packages. Key dependencies inclu
 - TQDM
 - SciPy
 
-## License
 
-This project is licensed under the MIT License.
-"""
-
-    # Write the content to README.md
-    with open('README.md', 'w') as f:
-        f.write(readme_content)
-    print("README.md file has been generated successfully.")
-
-if __name__ == "__main__":
-    generate_readme()
-```
